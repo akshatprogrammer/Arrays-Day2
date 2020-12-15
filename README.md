@@ -31,3 +31,11 @@ In this repo, we will understand about Arrays and some simple Problem related to
   used to dynamically allocate single large block of memory.
   * It returns void pointer.
 ![diagram](https://github.com/akshatprogrammer/Arrays-Day2/blob/main/day2.svg%20-%20Google%20Chrome%2012_15_2020%208_12_20%20PM.png?raw=true)
+### free()
+ used to deallocate dynamically allocated memory.
+ * free(p);
+ 
+# More in this Repository ->
+ * Search and delete any element from array.
+ * Reverse an array.
+ </br>Check them too.
