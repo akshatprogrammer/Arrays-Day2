@@ -15,7 +15,7 @@ In this repo, we will understand about Arrays and some simple Problem related to
 ## Case 1 :
         int arr[] ={1,2,3,4,5};
 ## Case 2:
-        int arr[5] = {1,2,3};</br>
+        int arr[5] = {1,2,3};
      rest of elements will be zero.   
 ## Case 3:
       for(int i=0;i<n;i++)
