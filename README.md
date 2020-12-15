@@ -36,6 +36,6 @@ In this repo, we will understand about Arrays and some simple Problem related to
  * free(p);
  
 # More in this Repository ->
- * Search and delete any element from array.
+ * Search and delete any element from array.[click here](https://github.com/akshatprogrammer/Arrays-Day2/blob/main/SearchAndDelete.cpp)
  * Reverse an array. [click here](https://github.com/akshatprogrammer/Arrays-Day2/blob/main/ReverseAnArray.cpp)
  </br>Check them too.
