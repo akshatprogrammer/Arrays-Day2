@@ -39,3 +39,18 @@ In this repo, we will understand about Arrays and some simple Problem related to
  * Search and delete any element from array.[click here](https://github.com/akshatprogrammer/Arrays-Day2/blob/main/SearchAndDelete.cpp)
  * Reverse an array. [click here](https://github.com/akshatprogrammer/Arrays-Day2/blob/main/ReverseAnArray.cpp)
  </br>Check them too.
+
+# Connect With Me
+LinkedIn : https://www.linkedin.com/in/akshat-jain-a24baa18a/<br/>
+Email : akshat.kodia@gmail.com<br/>
+Twitter : www.twitter.com/akki_aj89<br/>
+
+# Personal
+Name : Akshat Jain<br/>
+University : Graphic Era University, Dehradun(UK)
+
+If any problem with this program reach me at Telegram<br/>
+Here is the link -> https://t.me/akki_aj89
+
+# Gratitude
+Thank You, if you like it please leave a Star.
